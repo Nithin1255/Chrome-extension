@@ -25,5 +25,5 @@ You can download and install **Node.js** from [here](https://nodejs.org/).
    Clone the project to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Nithin1255/react-chrome-extension.git
+   git clone https://github.com/Nithin1255/Chrome-extension.git
 
